@@ -1,0 +1,59 @@
+sky is blue.
+grass is green.
+blue is color.
+green is color.
+yellow is color.
+red is color.
+orange is color.
+grass has leaves.
+leaves are green.
+water is blue.
+sky is cloudy.
+clouds are white.
+clouds are water.
+
+water is blue.
+rock is hard.
+rock is old.
+guitar makes music.
+music is sound.
+light is bright.
+light is fast.
+earth is planet.
+planets are big.
+we are humans.
+guitar is wood.
+wood is tree.
+
+
+pain is bad.
+pleasure is good.
+pleasure is emotion.
+happy is good.
+happy is emotion.
+smile means happy.
+love is good.
+love is emotion.
+hurt is sad.
+sad is emotion.
+sad is bad.
+annoyed is frustrated.
+annoyed is emotion
+frustrated is emotion.
+annoyed is bad.
+frustrated is bad.
+hurt is bad.
+hurt is pain.
+
+
+
+
+
+
+
+
+
+
+
+bad is not good.
+good is not bad.
